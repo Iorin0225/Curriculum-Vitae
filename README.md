@@ -1,4 +1,6 @@
-## オープン職務経歴書
+# オープン職務経歴書
+
+企業名などはなるだけ伏せております。
 
 ## 基本情報
 
@@ -287,4 +289,4 @@
     - 「[和歌山市子ども元気アップ大作戦(総務省ユビキタス特区事業)](https://www.cisco.com/c/dam/global/ja_jp/assets/news/pr/2010/images/201007-cisco-casestudy-wakayama.pdf)」の一環
 - 企業側が用意したAPI(XML-RPC形式)とやりとり
 - 当時、国内の書籍が少なかったので、海外の書籍を取り寄せるなどして開発
-- 学会発表 x1 Curriculum-Vitae
+- 学会発表 x1
