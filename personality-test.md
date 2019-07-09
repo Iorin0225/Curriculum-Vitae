@@ -62,7 +62,7 @@
 
 #### 詳細な診断結果
 
-[Result of the Clifton Strengths](./files/clifton-strenghts.pdf)
+[Result of the Clifton Strengths](./files/clifton-strengths.pdf)
 
 ### 参考
 
